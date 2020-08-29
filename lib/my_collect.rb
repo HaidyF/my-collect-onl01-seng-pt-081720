@@ -5,4 +5,5 @@ new_array = []
 new_array << yield (collection[i])
 i += 1
   end
+  return new_array
 end
