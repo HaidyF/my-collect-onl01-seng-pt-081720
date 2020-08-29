@@ -4,6 +4,6 @@ new_array = []
   while i < collection.length
 
     yield (collection[i])
-    i+=1
+  new_array = i+=1
   end
 end
