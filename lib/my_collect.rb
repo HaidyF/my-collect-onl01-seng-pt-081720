@@ -5,6 +5,6 @@ new_array = []
 
     yield (collection[i])
   i+=1
-new_array = yield(collection[i])
+  new_array = i
   end
 end
